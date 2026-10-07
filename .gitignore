@@ -1,0 +1,9 @@
+# Built plugin (run build.ps1)
+GameData/VillagerSpaceProgram/Plugins/*.dll
+# Dev tour switch and output
+GameData/VillagerSpaceProgram/PluginData/devtour.txt
+GameData/VillagerSpaceProgram/PluginData/tour/
+# Never commit anything from the game itself
+*.mu
+KSP_x64_Data/
+__pycache__/
